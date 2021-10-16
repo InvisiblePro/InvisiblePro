@@ -1,5 +1,6 @@
 - 👋 Hi, We're @DarBar brothers
-- 👀 I’m interested in Python projects
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on Python files 
-- 📫 You can reach me by my ID.
+- 👨🏻‍🎓 We are studying in grade 8th.
+- 👀 We are interested in Python 🐍 projects
+- 🌱 We are currently learning Python and Java.
+- 💞️ We arelooking to collaborate on Python files/project .
+- 📫 You can reach me by my email [@DarBar](dhyeyrathodsir@gmail.com)
