@@ -3,4 +3,4 @@
 - 👀 We are interested in Python 🐍 projects
 - 🌱 We are currently learning Python and Java.
 - 💞️ We arelooking to collaborate on Python files/project .
-- 📫 You can reach me by my email [@DarBar](dhyeyrathodsir@gmail.com)
+- 📫 You can reach me by my email dhyeyrathodsir@gmail.com
