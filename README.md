@@ -15,7 +15,6 @@
 [<img src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" alt="Eclipse" width="30px">](https://www.eclipse.org/) &nbsp;
 [<img alt="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px" />](https://www.github.com/) &nbsp; 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="30px" />](https://www.python.org/) &nbsp;  [<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="JAVA" width="30px">](https://www.java.com/en/)   &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="30px"/>](https://jupyter.org/) &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="Kotlin" width="30px">](https://kotlinlang.org/)
 
 <hr>
 <br>
