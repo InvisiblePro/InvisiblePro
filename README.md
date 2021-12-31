@@ -6,4 +6,6 @@
 - 💞️ We arelooking to collaborate on Python files/project.  &nbsp; &nbsp; 
 - 📫 You can reach us by our email-- [@DarBar](mailto:dhyeyrathodsir@gmail.com) or [@DarBar](mailto:rathod.bhavy77@gmail.com)
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=radical&title_color=00ffff&text_color=ed0011"/> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&hide_border=false&theme=radical&show_icons=true&bg_color=151415&text_color=fff&title_color=0ff"/>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=radical&title_color=00ffff&text_color=ed0011"/>
+
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&hide_border=false&theme=radical&show_icons=true&bg_color=151415&text_color=fff&title_color=0ff"/>
