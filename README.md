@@ -20,4 +20,4 @@
 <hr>
 <br>
 
-[![](https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github&style=for-the-badge)](https://github.com/InvisiblePro)
+[<img src="https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github&style=for-the-badge" align="center" alt="InvisiblePro">](https://github.com/InvisiblePro)
