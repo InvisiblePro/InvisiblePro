@@ -7,6 +7,28 @@
 - 📫 You can reach us by our email-- [@DarBar](mailto:dhyeyrathodsir@gmail.com) or [@DarBar](mailto:rathod.bhavy77@gmail.com)
 - 📚 Our Repositories -- [InvisiblePro](https://github.com/InvisiblePro?tab=repositories)
 
+<br/>
+
+<details><summary>  📚  REPOSITORIES</summary>
+<br>
+  
+- [Aerial Distance Calculator](https://github.com/InvisiblePro/Aerial-Distance-Calculator)   
+   
+- [Java_Mini_Projects](https://github.com/InvisiblePro/Java_Mini_Projects)
+   
+- [Kotlin](https://github.com/InvisiblePro/Kotlin)
+   
+- [Py_Mini_Projects](https://github.com/InvisiblePro/Py_Mini_Projects)
+   
+- [QR-Code_Python](https://github.com/InvisiblePro/QR-Code_Python)
+
+- [StonePaperScissor](https://github.com/InvisiblePro/StonePaperScissor)
+<br/>
+</details>
+<span>
+<br/>
+</span>
+
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=radical&title_color=00ffff&text_color=fff"/> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&hide_border=false&theme=radical&show_icons=true&bg_color=151415&text_color=fff&title_color=0ff" width="310px" align="right"/>
 
 ### ***TOOLS*** *and* ***LANGUAGES*** 
