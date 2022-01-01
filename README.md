@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, We're @DarBar brothers</h1>
+<h1 align="center"> 👋 Hi, We're Brothers</h1>
 
 - 👨🏻‍🎓 We are studying in grade 8th.   &nbsp; &nbsp;
 - 👀 We are interested in Python 🐍 projects.  &nbsp; &nbsp;
