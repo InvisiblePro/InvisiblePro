@@ -107,6 +107,15 @@
 <br>
 <details>
   <summary>QR-Code_Python</summary>
+  
+# QR-Code_Python
+[![](https://img.shields.io/badge/Language-Python-blue)](https://www.python.org/) 
+
+
+### This repository is based on concept of converting text or numbers into QR-Code.
+
+Module to install -- `pip install qrcode`
+
 </details>
 <br>
 <details>
