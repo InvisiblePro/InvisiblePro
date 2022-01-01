@@ -68,10 +68,6 @@
 ### *TOOLS and LANGUAGES* 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="40px" alt="Intellij">](https://www.jetbrains.com/idea) &nbsp;&nbsp;&nbsp;
 [<img src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" alt="Eclipse" width="40px">](https://www.eclipse.org/) [<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="JAVA" width="40px">](https://www.java.com/en/)
-<hr>
-
-[![](https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github)](https://github.com/InvisiblePro)
-
 </details>
 <br>
 <details>
@@ -87,10 +83,6 @@
 
 ### *TOOLS and LANGUAGES* 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="40px" alt="Intellij">](https://www.jetbrains.com/idea) &nbsp;&nbsp;&nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="Kotlin" width="40px">](https://kotlinlang.org/)
-<hr>
-
-[![](https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github)](https://github.com/InvisiblePro)
-
 </details>
 <br>
 <details>
