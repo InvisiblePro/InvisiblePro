@@ -8,10 +8,9 @@
 - 📚 Our Repositories -- [InvisiblePro](https://github.com/InvisiblePro?tab=repositories)
 
 <br/>
-<br/>
 
 ## 📚 REPOSITORIES 📚
-
+<h3>
 <details>
   <summary> Aerial Distance Calculator </summary>
 <h2>Aerial_Distance_Calculator</h2>   &nbsp;  <img src="https://img.shields.io/badge/Language-Python-blue?logo=python&style=flat"> <img src="https://img.shields.io/badge/Language-Jupyter-orange?logo=jupyter&style=flat">
@@ -50,7 +49,7 @@
 [<img alt="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="26px" />](https://code.visualstudio.com/) &nbsp; 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="26px" />](https://www.python.org/) &nbsp;                                          [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="26px"/>](https://jupyter.org/)
 
-</details>   
+</details> </h3>  
 <br/>
 <details>
   <summary>Java_Mini_Projects</summary>
