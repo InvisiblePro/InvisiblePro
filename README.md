@@ -11,7 +11,7 @@
 </h3>
 <br/>
 
-## 📚 REPOSITORIES 📚
+## 📚 :zap: REPOSITORIES :zap: 📚
 <h3>
 <details>
   <summary> Aerial Distance Calculator </summary>
