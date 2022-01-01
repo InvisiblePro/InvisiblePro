@@ -8,11 +8,13 @@
 - 📚 Our Repositories -- [InvisiblePro](https://github.com/InvisiblePro?tab=repositories)
 
 <br/>
+<br/>
+## 📚 REPOSITORIES 📚
 
-<details><summary>  📚  REPOSITORIES</summary>
-<br>
-  
-- [Aerial Distance Calculator](https://github.com/InvisiblePro/Aerial-Distance-Calculator)   
+<details>
+  <h3><summary>Aerial Distance Calculator</summary></h3>
+
+</details>   
    
 - [Java_Mini_Projects](https://github.com/InvisiblePro/Java_Mini_Projects)
    
