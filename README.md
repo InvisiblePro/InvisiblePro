@@ -58,19 +58,19 @@
 </details>
 <br>
 <details>
-- [Kotlin](https://github.com/InvisiblePro/Kotlin)
+  <summary>Kotlin</summary>
 </details>
 <br>
 <details>
-- [Py_Mini_Projects](https://github.com/InvisiblePro/Py_Mini_Projects)
+  <summary>Py_Mini_Projects</summary>
 </details>
 <br>
 <details>
-- [QR-Code_Python](https://github.com/InvisiblePro/QR-Code_Python)
+  <summary>QR-Code_Python</summary>
 </details>
 <br>
 <details>
-- [StonePaperScissor](https://github.com/InvisiblePro/StonePaperScissor)
+  <summary>StonePaperScissor</summary>
 </details>
 
 
