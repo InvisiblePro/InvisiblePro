@@ -51,22 +51,28 @@
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="26px" />](https://www.python.org/) &nbsp;                                          [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="26px"/>](https://jupyter.org/)
 
 </details>   
-   
-- [Java_Mini_Projects](https://github.com/InvisiblePro/Java_Mini_Projects)
-   
-- [Kotlin](https://github.com/InvisiblePro/Kotlin)
-   
-- [Py_Mini_Projects](https://github.com/InvisiblePro/Py_Mini_Projects)
-   
-- [QR-Code_Python](https://github.com/InvisiblePro/QR-Code_Python)
-
-- [StonePaperScissor](https://github.com/InvisiblePro/StonePaperScissor)
 <br/>
+<details>
+  <summary>Java_Mini_Projects</summary>
+ 
 </details>
-<span>
-<br/>
-</span>
-
+<br>
+<details>
+- [Kotlin](https://github.com/InvisiblePro/Kotlin)
+</details>
+<br>
+<details>
+- [Py_Mini_Projects](https://github.com/InvisiblePro/Py_Mini_Projects)
+</details>
+<br>
+<details>
+- [QR-Code_Python](https://github.com/InvisiblePro/QR-Code_Python)
+</details>
+<br>
+<details>
+- [StonePaperScissor](https://github.com/InvisiblePro/StonePaperScissor)
+</details>
+<br>
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=radical&title_color=00ffff&text_color=fff"/> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&hide_border=false&theme=radical&show_icons=true&bg_color=151415&text_color=fff&title_color=0ff" width="310px" align="right"/> <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=InvisiblePro&theme=black-ice&stroke=f00" width=500 align="left"/> 
 <br/>
 <br/>
