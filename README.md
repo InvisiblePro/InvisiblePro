@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, We're Brothers</h1>
+ <h1 align="center"> <img src="https://monophy.com/media/Jp3o3zJyOWwpXqFc25/monophy.gif" width=100 height=100 align="center"> 👋 Hi, We're Brothers</h1>
 <h3>
   
 - 👨🏻‍🎓 We are studying in grade 8th.   &nbsp; &nbsp;
