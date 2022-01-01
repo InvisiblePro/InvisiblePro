@@ -146,7 +146,8 @@ Download and Run the `main.exe` file to play the game
 <br/>
 <br/>
 <br/><br/>
-## Contribution Graph
+
+# Contribution Graph
 
 [<img src="https://activity-graph.herokuapp.com/graph?username=InvisiblePro&bg_color=0d1117&color=5bcdec&line=5bcdec&hide_border=true"/>](https://ww.github.com)
 
