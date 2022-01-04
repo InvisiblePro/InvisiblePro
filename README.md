@@ -155,4 +155,6 @@ Download and Run the `main.exe` file to play the game
 
 <hr>
 
-[<img src="https://img.shields.io/github/followers/InvisiblePro?label=Followers&style=for-the-badge" align="left" alt="Followers"/>](https://github.com/InvisiblePro?tab=followers)&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github&style=for-the-badge" align="right" alt="InvisiblePro">](https://github.com/InvisiblePro)
+[<img src="https://img.shields.io/github/followers/InvisiblePro?label=Followers&style=for-the-badge" alt="Followers"/>](https://github.com/InvisiblePro?tab=followers)
+
+[<img src="https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github&style=for-the-badge" alt="InvisiblePro">](https://github.com/InvisiblePro)
