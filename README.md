@@ -1,11 +1,11 @@
 <h1 align="center"> <img src="https://monophy.com/media/Jp3o3zJyOWwpXqFc25/monophy.gif" width=100 height=100 align="center">, &nbsp; We're Brothers</h1>
 <h3>
   
-- 👨🏻‍🎓 We are studying in grade 8th.   &nbsp; &nbsp;
+- 👨🏻‍🎓 We are students.   &nbsp; &nbsp;
 - 👀 We are interested in Python 🐍 projects.  &nbsp; &nbsp;
 - 🌱 We are currently learning Python and Java.  &nbsp; &nbsp;
 - 🤝🏻 We are looking to collaborate on Python files/project.  &nbsp; &nbsp; 
-- 📫 You can reach us by our email-- [@DarBar](mailto:dhyeyrathodsir@gmail.com) or [@DarBar](mailto:rathod.bhavy77@gmail.com)
+- 📫 You can reach us by our email-- [@InvisiblePro](mailto:dhyeyrathodsir@gmail.com) or [@InvisiblePro](mailto:rathod.bhavy77@gmail.com)
 - 📚 Our Repositories -- [InvisiblePro](https://github.com/InvisiblePro?tab=repositories)
   
 </h3>
