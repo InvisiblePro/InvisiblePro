@@ -7,7 +7,8 @@
 - 🤝🏻 We are looking to collaborate on Python files/project.  &nbsp; &nbsp; 
 - 📫 You can reach us by our email-- [@InvisiblePro](mailto:dhyeyrathodsir@gmail.com) or [@InvisiblePro](mailto:rathod.bhavy77@gmail.com)
 - 📚 Our Repositories -- [InvisiblePro](https://github.com/InvisiblePro?tab=repositories)
-- 🤝🏻🤝🏻 One of Best friend [Idhant](https://www.github.com/Idhant-6) who help us in our journey!.....
+- 🤝🏻🤝🏻 One of Best friend [Idhant](https://www.github.com/Idhant-6) who help us in our journey!..... 
+  [![](https://img.shields.io/badge/Chief--contributor-Idhant--6-blueviolet?logo=githubactions&logoColor=fff)](https://www.github.com/Idhant-6)
   
 </h3>
 <br/>
@@ -160,6 +161,9 @@ Download and Run the `main.exe` file to play the game
 <br/><br/>
 
 <hr>
+
+<img src="https://img.shields.io/badge/Contact--me(1)-@InvisiblePro-blue?link=mailto:dhyeyrathodsir@gmail.com&style=for-the-badge" width=250>
+<img src="https://img.shields.io/badge/Contact--me(2)-@InvisiblePro-blue?link=mailto:rathod.bhavy77@gmail.com&style=for-the-badge" width=250>
 
 [<img src="https://img.shields.io/github/followers/InvisiblePro?label=Followers&style=for-the-badge" alt="Followers"/>](https://github.com/InvisiblePro?tab=followers)
 
