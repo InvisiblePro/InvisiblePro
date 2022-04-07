@@ -48,7 +48,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Kotlin&theme=dark"/>
 </a>
 <br>
-<hr>
 <br/><br/><br/>
 <br/>
 <br/>
