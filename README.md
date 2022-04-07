@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://github.com/InvisiblePro/Py_Mini_Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Py_Mini_projects&theme=dark"/>
+  <img align="center" src=""/>
 </a>
 
 <a href="https://github.com/InvisiblePro/Java_Mini_Projects/">
