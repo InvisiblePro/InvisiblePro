@@ -1,10 +1,10 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="75" align="center"> <img src="https://monophy.com/media/Jp3o3zJyOWwpXqFc25/monophy.gif" width=100 height=100 align="center">, &nbsp; We're Brothers</h1>
 <h3>
   
-- 👨🏻‍🎓 We are students of Grade IX.   &nbsp; &nbsp;
-- 👀 We are interested in AI 🤖 projects with Python 🐍.  &nbsp; &nbsp;
-- 🌱 We are currently learning Python, AI and ML.  &nbsp; &nbsp;
-- 🤝🏻 We are looking to collaborate on Python files/project.  &nbsp; &nbsp; 
+- 👨🏻‍🎓 We are students of Grade IX. 
+- 👀 We are interested in AI 🤖 projects with Python 🐍.
+- 🌱 We are currently learning Python, AI and ML.
+- 🤝🏻 We are looking to collaborate on Python files/project.
 - 📫 You can reach us by our email-- [@InvisiblePro](mailto:dhyeyrathodsir@gmail.com) or [@InvisiblePro](mailto:rathod.bhavy77@gmail.com)
 - 📚 Our Repositories -- [InvisiblePro](https://github.com/InvisiblePro?tab=repositories)
 - 🤝🏻🤝🏻 One of Best friend [Idhant](https://www.github.com/Idhant-6) who help us in our journey!..... 
