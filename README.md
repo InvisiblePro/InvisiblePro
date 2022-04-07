@@ -61,7 +61,7 @@
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=radical&title_color=00ffff&text_color=fff" align="center" />
 
-<img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&layput=compact&hide_border=false&theme=radical&show_icons=true&bg_color=151415&text_color=fff&title_color=0ff" width="310px" align="center"/> 
+<img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&layout=compact&hide_border=false&theme=radical&show_icons=true&bg_color=151415&text_color=fff&title_color=0ff" width="310px" align="center"/> 
 </div>
 
 
