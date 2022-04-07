@@ -14,38 +14,37 @@
 <br/>
 
 ## 📚 REPOSITORIES 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/InvisiblePro/Stock-Market-Share-Price-Predictor/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Stock-Market-Share-Price-Predictor&theme=dark" width=585/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Stock-Market-Share-Price-Predictor&theme=dark"/>
 </a>
 
 <a href="https://github.com/InvisiblePro/Py_Mini_Projects">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Py_Mini_projects&theme=dark" width=400/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Py_Mini_projects&theme=dark"/>
 </a>
 
 <a href="https://github.com/InvisiblePro/Java_Mini_Projects/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Java_Mini_Projects&theme=dark"  width=400/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Java_Mini_Projects&theme=dark"/>
 </a>
 
 
 <a href="https://github.com/InvisiblePro/Aerial-Distance-Calculator">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Aerial-Distance-Calculator&theme=dark" width=400/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Aerial-Distance-Calculator&theme=dark"/>
 </a>
 
 <a href="https://github.com/InvisiblePro/QR-Code_Python">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=QR-Code_Python&theme=dark" width=400/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=QR-Code_Python&theme=dark"/>
 </a>
 
 <a href="https://github.com/InvisiblePro/BMI_Calculator">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=BMI_Calculator&theme=dark" width=400/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=BMI_Calculator&theme=dark"/>
 </a>
 
 <a href="https://github.com/InvisiblePro/StonePaperScissor">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=StonePaperScissor&theme=dark" width=400 />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=StonePaperScissor&theme=dark"/>
 </a>
 
 <a href="https://github.com/InvisiblePro/Kotlin/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Kotlin&theme=dark" width=400/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Kotlin&theme=dark"/>
 </a>
 <hr>
 
