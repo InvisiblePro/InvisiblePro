@@ -23,13 +23,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Py_Mini_projects&theme=dark"/>
 </a>
 
+<br>
 <a href="https://github.com/InvisiblePro/Java_Mini_Projects/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Java_Mini_Projects&theme=dark" />
 </a>
 
+
 <a href="https://github.com/InvisiblePro/Aerial-Distance-Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Aerial-Distance-Calculator&theme=dark"/>
 </a>
+<br>
 
 <a href="https://github.com/InvisiblePro/QR-Code_Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=QR-Code_Python&theme=dark" />
@@ -38,6 +41,7 @@
 <a href="https://github.com/InvisiblePro/BMI_Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=BMI_Calculator&theme=dark"/>
 </a>
+<br>
 
 <a href="https://github.com/InvisiblePro/Kotlin/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Kotlin&theme=dark" />
@@ -47,6 +51,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=StonePaperScissor&theme=dark" />
 </a>
 
+
+
+<br>
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=radical&title_color=00ffff&text_color=fff"/> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&hide_border=false&theme=radical&show_icons=true&bg_color=151415&text_color=fff&title_color=0ff" width="310px" align="right"/> 
 <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=InvisiblePro&theme=black-ice&stroke=f00" width=500 align="left"/> 
