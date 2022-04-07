@@ -15,8 +15,8 @@
 
 ## 📚 REPOSITORIES 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/InvisiblePro/Stock_Market_Share_Price_Predictor/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Stock_Market_Share_Price_Predictor&theme=dark" width=585/>
+<a href="https://github.com/InvisiblePro/Stock-Market-Share-Price-Predictor/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Stock-Market-Share-Price-Predictor&theme=dark" width=585/>
 </a>
 
 <a href="https://github.com/InvisiblePro/Py_Mini_Projects">
