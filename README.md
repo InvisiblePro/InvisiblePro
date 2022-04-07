@@ -77,8 +77,8 @@
 
 <hr>
 
-[<img src="https://img.shields.io/badge/Contact--me_(1)-@InvisiblePro-blue?style=for-the-badge&link=mailto:dhyeyrathodsir@gmail.com" width=250>](mailto:dhyeyrathodsir@gmail.com)
-[<img src="https://img.shields.io/badge/Contact--me_(2)-@InvisiblePro-blue?style=for-the-badge&link=mailto:rathod.bhavy77@gmail.com" width=250>](mailto:rathod.bhavy77@gmail.com)
+[<img src="https://img.shields.io/badge/Contact--me_(1)-@InvisiblePro-blue?style=for-the-badge&logo=mail.ru&link=mailto:dhyeyrathodsir@gmail." width=250>](mailto:dhyeyrathodsir@gmail.com)
+[<img src="https://img.shields.io/badge/Contact--me_(2)-@InvisiblePro-blue?style=for-the-badge&logo=mail.ru&link=mailto:rathod.bhavy77@gmail.com" width=250>](mailto:rathod.bhavy77@gmail.com)
 
 [<img src="https://img.shields.io/github/followers/InvisiblePro?label=Followers&style=for-the-badge" alt="Followers"/>](https://github.com/InvisiblePro?tab=followers)
 
