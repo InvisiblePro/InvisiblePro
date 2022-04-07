@@ -60,7 +60,8 @@
 
 
 # Stats:
-<div>
+
+<div>  
 <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=InvisiblePro&theme=black-ice&stroke=f00" width=500 align="center"/>
 
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&hide_border=false&theme=radical&show_icons=true&bg_color=151415&text_color=fff&title_color=0ff" width="310px" align="center"/> 
