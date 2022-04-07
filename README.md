@@ -8,7 +8,7 @@
 - 📫 You can reach us by our email-- [@InvisiblePro](mailto:dhyeyrathodsir@gmail.com) or [@InvisiblePro](mailto:rathod.bhavy77@gmail.com)
 - 📚 Our Repositories -- [InvisiblePro](https://github.com/InvisiblePro?tab=repositories)
 - 🤝🏻🤝🏻 One of Best friend [Idhant](https://www.github.com/Idhant-6) who help us in our journey!..... 
-  [![](https://img.shields.io/badge/Chief--contributor-Idhant--6-blueviolet?logo=githubactions&logoColor=fff)](https://www.github.com/Idhant-6)
+  [![](https://img.shields.io/badge/Chief--contributor-Idhant--6-blueviolet?logo=githubactions&logoColor=fff&style=for-the-badge)](https://www.github.com/Idhant-6)
   
 </h3>
 <br/>
