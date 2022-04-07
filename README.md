@@ -49,8 +49,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Kotlin&theme=dark"/>
 </a>
 
-
-<br><hr>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
 <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=InvisiblePro&theme=black-ice&stroke=f00" width=500 align="left"/>
 
