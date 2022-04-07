@@ -15,7 +15,6 @@
 
 ## 📚 REPOSITORIES 
 
-<div>
 <a href="https://github.com/InvisiblePro/Stock-Market-Share-Price-Predictor/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Stock-Market-Share-Price-Predictor&theme=dark"/>
 </a>
@@ -51,12 +50,11 @@
   
 <br/>
 <br/>
-</div>
 
 
 # Stats:
 
-<div>  
+
 <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=InvisiblePro&theme=black-ice&stroke=f00" width=500 />
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=radical&title_color=00ffff&text_color=fff" />
@@ -65,7 +63,7 @@
   
 <br/>
 <br/>
-</div>
+
 
 
 # ***TOOLS*** *and* ***LANGUAGES*** 
