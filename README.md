@@ -15,11 +15,11 @@
 
 ## 📚 REPOSITORIES 
 
-<a href="https://github.com/InvisiblePro/Stock-Market-Share-Price-Predictor/" align="center">
+<a href="https://github.com/InvisiblePro/Stock-Market-Share-Price-Predictor/" align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Stock-Market-Share-Price-Predictor&theme=dark"/>
 </a>
 <br>
-<a href="https://github.com/InvisiblePro/Py_Mini_Projects" align="center">
+<a href="https://github.com/InvisiblePro/Py_Mini_Projects" align="right">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Py_Mini_projects&theme=dark"/>
 </a>
 <br>
