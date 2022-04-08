@@ -15,6 +15,10 @@
 
 ## 📚 REPOSITORIES 
 
+<a href="https://github.com/InvisiblePro/AI_Security/" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=AI_Security&theme=dark"/>
+</a>
+
 <a href="https://github.com/InvisiblePro/Stock-Market-Share-Price-Predictor/" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Stock-Market-Share-Price-Predictor&theme=dark"/>
 </a>
