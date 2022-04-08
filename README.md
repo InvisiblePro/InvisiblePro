@@ -13,7 +13,9 @@
 </h3>
 <br/>
 
-## 📚 REPOSITORIES 
+## 📚 REPOSITORIES  
+
+[<img src="https://github.com/InvisiblePro?tab=repositories" alt="InvisiblePro">](https://github.com/InvisiblePro?tab=repositories)
 
 <a href="https://github.com/InvisiblePro/AI_Security/" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=AI_Security&theme=dark"/>
@@ -77,6 +79,8 @@
 <br/><br/>
 
 <hr>
+
+![](https://komarev.com/ghpvc/?username=InvisiblePro&label=PROFILE+VIEWS&style=for-the-badge)
 
 [<img src="https://img.shields.io/badge/Contact--me_(1)-@InvisiblePro-blue?style=for-the-badge&logo=gmail&link=mailto:dhyeyrathodsir@gmail." width=250>](mailto:dhyeyrathodsir@gmail.com)
 [<img src="https://img.shields.io/badge/Contact--me_(2)-@InvisiblePro-blue?style=for-the-badge&logo=gmail&link=mailto:rathod.bhavy77@gmail.com" width=250>](mailto:rathod.bhavy77@gmail.com)
