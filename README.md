@@ -5,7 +5,7 @@
 - 👀 We are interested in AI 🤖 projects with Python 🐍.
 - 🌱 We are currently learning Python, AI and ML.
 - 🤝🏻 We are looking to collaborate on Python files/project.
-- 📫 You can reach us by our email-- [@InvisiblePro](mailto:rathod.bhavy77@gmail.com)
+- 📫 You can reach us by our email-- [@InvisiblePro](mailto:dhyeyrathodsir@gmail.com)
 - 🤠 One of Best friend [Idhant](https://www.github.com/Idhant-6) who help us in our journey!... 
    
 </h3>
@@ -72,7 +72,7 @@
 
 ![](https://komarev.com/ghpvc/?username=InvisiblePro&label=PROFILE+VIEWS&style=for-the-badge)
 
-[<img src="https://img.shields.io/badge/Contact--me_(1)-@InvisiblePro-blue?style=for-the-badge&logo=gmail&link=mailto:dhyeyrathodsir@gmail." width=250>](mailto:dhyeyrathodsir@gmail.com)
+[<img src="https://img.shields.io/badge/Contact--me-@InvisiblePro-blue?style=for-the-badge&logo=gmail&link=mailto:dhyeyrathodsir@gmail." width=250>](mailto:dhyeyrathodsir@gmail.com)
 
 [<img src="https://img.shields.io/github/followers/InvisiblePro?label=Followers&style=for-the-badge" alt="Followers"/>](https://github.com/InvisiblePro?tab=followers)
 
