@@ -5,15 +5,13 @@
 - 👀 We are interested in AI 🤖 projects with Python 🐍.
 - 🌱 We are currently learning Python, AI and ML.
 - 🤝🏻 We are looking to collaborate on Python files/project.
-- 📫 You can reach us by our email-- [@InvisiblePro](mailto:dhyeyrathodsir@gmail.com) or [@InvisiblePro](mailto:rathod.bhavy77@gmail.com)
-- 📚 Our Repositories -- [InvisiblePro](https://github.com/InvisiblePro?tab=repositories)
-- 🤝🏻🤝🏻 One of Best friend [Idhant](https://www.github.com/Idhant-6) who help us in our journey!..... 
-  [![](https://img.shields.io/badge/Chief--contributor-Idhant--6-blueviolet?logo=githubactions&logoColor=fff&style=for-the-badge)](https://www.github.com/Idhant-6)
-  
+- 📫 You can reach us by our email-- [@InvisiblePro](mailto:rathod.bhavy77@gmail.com)
+- 🤠 One of Best friend [Idhant](https://www.github.com/Idhant-6) who help us in our journey!... 
+   
 </h3>
 <br/>
 
-## 📚 REPOSITORIES  ![](https://img.shields.io/badge/InvisiblePro-Repositories-blue?logo=github&style=for-the-badge)
+## 📚 REPOSITORIES 
 
 <a href="https://github.com/InvisiblePro/AI_Security/" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=AI_Security&theme=dark"/>
@@ -41,22 +39,16 @@
 <a href="https://github.com/InvisiblePro/StonePaperScissor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=StonePaperScissor&theme=dark"/>
 </a>
-<a href="https://github.com/InvisiblePro/Kotlin/" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Kotlin&theme=dark"/>
-</a>
-  
+
 <br/>
 <br/>
 
 
 # Stats:
 
-
-<img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=InvisiblePro&theme=black-ice&stroke=f00" />
-
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=radical&title_color=00ffff&text_color=fff" />
-
-<img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&layout=compact&hide_border=false&theme=radical&show_icons=true&bg_color=151415&text_color=fff&title_color=0ff" width=500/> 
+<img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=InvisiblePro&theme=black-ice&stroke=f00"/>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=radical&title_color=00ffff&text_color=fff"/>
+<img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&layout=compact&hide_border=false&theme=radical&show_icons=true&bg_color=151415&text_color=fff&title_color=0ff" width=500 "/> 
   
 <br/>
 <br/>
@@ -81,7 +73,6 @@
 ![](https://komarev.com/ghpvc/?username=InvisiblePro&label=PROFILE+VIEWS&style=for-the-badge)
 
 [<img src="https://img.shields.io/badge/Contact--me_(1)-@InvisiblePro-blue?style=for-the-badge&logo=gmail&link=mailto:dhyeyrathodsir@gmail." width=250>](mailto:dhyeyrathodsir@gmail.com)
-[<img src="https://img.shields.io/badge/Contact--me_(2)-@InvisiblePro-blue?style=for-the-badge&logo=gmail&link=mailto:rathod.bhavy77@gmail.com" width=250>](mailto:rathod.bhavy77@gmail.com)
 
 [<img src="https://img.shields.io/github/followers/InvisiblePro?label=Followers&style=for-the-badge" alt="Followers"/>](https://github.com/InvisiblePro?tab=followers)
 
