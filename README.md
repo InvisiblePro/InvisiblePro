@@ -13,6 +13,14 @@
 
 ## 📚 REPOSITORIES 
 
+<a href="https://github.com/InvisiblePro/Hacktoberfest-2022" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Hacktoberfest-2022&theme=dark"/>
+</a>
+
+<a href="https://github.com/InvisiblePro/Hacktoberfest_2022" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Hacktoberfest_2022&theme=dark"/>
+</a>
+
 <a href="https://github.com/InvisiblePro/AI_Security/" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=AI_Security&theme=dark"/>
 </a>
