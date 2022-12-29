@@ -74,6 +74,11 @@
 
 [<img src="https://activity-graph.herokuapp.com/graph?username=InvisiblePro&bg_color=0d1117&color=5bcdec&line=5bcdec&hide_border=true"/>](https://ww.github.com)
 
+                                                                                                                                       
+# Badges
+                                                                                                                                       
+[![An image of @invisisblepro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/invisisblepro)](https://holopin.io/@invisisblepro)
+
 <br/><br/>
 
 <hr>
