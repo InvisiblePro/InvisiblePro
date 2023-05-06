@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="75" align="center"> <img src="https://monophy.com/media/Jp3o3zJyOWwpXqFc25/monophy.gif" width=100 height=100 align="center"></h1>
 <h3>
   
-- 👨🏻‍🎓 I'm are students of Grade X. 
+- 👨🏻‍🎓 I'm student of Grade X. 
 - 👀 I'm interested in AI 🤖 projects with Python 🐍.
 - 🌱 I'm currently learning Python, AI and ML.
 - 🤝🏻 I'm  looking to collaborate on Python files/project.
