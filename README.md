@@ -6,7 +6,6 @@
 - 🌱 I'm currently learning Python, AI and ML.
 - 🤝🏻 I'm  looking to collaborate on Python files/project.
 - 📫 You can reach me by my email-- [@InvisiblePro](mailto:dhyeyrathodsir@gmail.com)
-- 🤠 My Bros [Bhavya Rathod](https://www.github.com/IncrediblePro) and [Idhant Singh](https://www.github.com/Idhant-6) who help me in my journey!... 
    
 </h3>
 <br/>
