@@ -1,5 +1,5 @@
 <h1 align="center" font-size="500">H̷e̷l̷l̷o̷!</h1>
-  
+
 <h3>
   
 - 👨🏻‍🎓 I'm student of Grade X. 
@@ -10,6 +10,11 @@
    
 </h3>
 <br/>
+
+# Badges
+                                                                                                                                       
+[![An image of @invisisblepro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/invisisblepro)](https://holopin.io/@invisisblepro)
+
 
 ## 📚 REPOSITORIES 
 
@@ -32,7 +37,7 @@
 
 <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=InvisiblePro&theme=black-ice&stroke=f00"/>
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=radical&title_color=00ffff&text_color=fff"/>
-<img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&layout=compact&hide_border=false&theme=radical&show_icons=true&bg_color=151415&text_color=fff&title_color=0ff" width=500 "/> 
+<img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&layout=compact&hide_border=false&theme=radical&show_icons=true&bg_color=151415&text_color=fff&title_color=0ff" width=400"/> 
   
 <br/>
 <br/>
@@ -49,11 +54,6 @@
 # Contribution Graph
 
 [<img src="https://activity-graph.herokuapp.com/graph?username=InvisiblePro&bg_color=0d1117&color=5bcdec&line=5bcdec&hide_border=true"/>](https://ww.github.com)
-
-                                                                                                                                       
-# Badges
-                                                                                                                                       
-[![An image of @invisisblepro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/invisisblepro)](https://holopin.io/@invisisblepro)
 
 <br/><br/>
 
