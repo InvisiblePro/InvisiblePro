@@ -1,4 +1,5 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="75" align="center"> <img src="https://monophy.com/media/Jp3o3zJyOWwpXqFc25/monophy.gif" width=100 height=100 align="center"></h1>
+<h1 align="center" font-size="500">H̷e̷l̷l̷o̷!</h1>
+  
 <h3>
   
 - 👨🏻‍🎓 I'm student of Grade X. 
