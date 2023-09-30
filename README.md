@@ -15,6 +15,7 @@
                                                                                                                                        
 [![An image of @invisisblepro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/invisisblepro)](https://holopin.io/@invisisblepro)
 
+<br/>
 
 ## 📚 尺乇卩ㄖ丂丨ㄒㄖ尺ㄚ
 
@@ -30,7 +31,6 @@
   <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=AI_Face_Recognition&theme=jolly"/>
 </a>
 <br/>
-<br/>
 
 
 ## 丂ㄒ卂ㄒ丂:
@@ -40,7 +40,7 @@
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&layout=compact&hide_border=false&theme=radical&show_icons=true&bg_color=000&text_color=00afef&title_color=00afef" width=400"/> 
   
 <br/>
-<br/>
+
 
 
 
@@ -49,7 +49,8 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" width="40px">](https://www.jetbrains.com/pycharm/) &nbsp;&nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="40px" alt="Intellij">](https://www.jetbrains.com/idea) &nbsp;&nbsp; [<img src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" alt="Eclipse" width="40px">](https://www.eclipse.org/) &nbsp;&nbsp;[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="40px" />](https://www.python.org/) &nbsp;&nbsp;[<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="JAVA" width="40px">](https://www.java.com/en/)&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="40px"/>](https://jupyter.org/) &nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="Kotlin" width="40px">](https://kotlinlang.org/)
 <br/>
 <br/>
-<br/><br/>
+<br/>
+
 
 ## *匚ㄖ几ㄒ尺丨乃ㄩㄒ丨ㄖ几*
 
