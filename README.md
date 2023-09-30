@@ -44,7 +44,7 @@
 
 
 
-## *Tㄒㄖㄖㄥ丂 and ㄥ丨几Ꮆㄖ:*
+## *ㄒㄖㄖㄥ丂 and ㄥ丨几Ꮆㄖ:*
 [<img alt="Visual Studio Code" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="40px" />](https://code.visualstudio.com/) &nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" width="40px">](https://www.jetbrains.com/pycharm/) &nbsp;&nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="40px" alt="Intellij">](https://www.jetbrains.com/idea) &nbsp;&nbsp; [<img src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" alt="Eclipse" width="40px">](https://www.eclipse.org/) &nbsp;&nbsp;[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="40px" />](https://www.python.org/) &nbsp;&nbsp;[<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="JAVA" width="40px">](https://www.java.com/en/)&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="40px"/>](https://jupyter.org/) &nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="Kotlin" width="40px">](https://kotlinlang.org/)
 <br/>
