@@ -5,7 +5,7 @@
 - 👨🏻‍🎓 Student of Grade X. 
 - 👀 Interested in AI 🤖 projects with Python 🐍.
 - 🌱 Currently on the way of AI and ML with python
-- 🤝🏻 Looking to collaborate on Python project and OpenCV projects.
+- 🤝🏻 Looking to collaborate on Python and OpenCV projects.
 - 📫 Reach me out-- [@InvisiblePro](mailto:hacker.invisiblepro@proton.me)
    
 </h3>
@@ -35,9 +35,9 @@
 
 ## 丂ㄒ卂ㄒ丂:
 
-<img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=InvisiblePro&theme=black-ice&stroke=00f"/>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=radical&title_color=00ffff&text_color=00afef"/>
-<img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&layout=compact&hide_border=false&theme=radical&show_icons=true&bg_color=000&text_color=00afef&title_color=00afef" width=400"/> 
+<img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=InvisiblePro&theme=blue_navy&stroke=00f"/>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=blue_navy"/>
+<img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&layout=compact&hide_border=false&theme=blue_navy&show_icons=true&" width=400"/> 
   
 <br/>
 
