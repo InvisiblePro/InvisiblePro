@@ -19,6 +19,10 @@
 
 ## 📚 尺乇卩ㄖ丂丨ㄒㄖ尺ㄚ
 
+<a href="https://github.com/InvisiblePro/CV_Projects">
+  <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=CV_Projects&theme=blue_navy"/>
+</a>
+
 <a href="https://github.com/InvisiblePro/Hacktoberfest-2022" >
   <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Hacktoberfest-2022&theme=blue_navy"/>
 </a>
@@ -40,6 +44,7 @@
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&layout=compact&hide_border=false&theme=blue_navy&show_icons=true&" width=400"/> 
 
 <br/>
+
 
 
 
