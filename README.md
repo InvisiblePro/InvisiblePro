@@ -37,6 +37,11 @@
 <br/>
 
 
+## *匚ㄖ几ㄒ尺丨乃ㄩㄒ丨ㄖ几*
+
+[<img src="https://github-readme-activity-graph.vercel.app/graph?username=InvisiblePro&color=00f&title_color=00f&line=00f&point=000&area_color=002387&area=true&bg_color=87ceeb"/>](https://ww.github.com)
+
+
 ## 丂ㄒ卂ㄒ丂:
 
 <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=InvisiblePro&theme=blue_navy&stroke=00f"/>
@@ -55,11 +60,6 @@
 <br/>
 <br/>
 <br/>
-
-
-## *匚ㄖ几ㄒ尺丨乃ㄩㄒ丨ㄖ几*
-
-[<img src="https://activity-graph.herokuapp.com/graph?username=InvisiblePro&bg_color=0d1117&color=5bcdec&line=5bcdec&hide_border=true"/>](https://ww.github.com)
 
 <br/><br/>
 
