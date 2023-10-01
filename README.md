@@ -20,15 +20,15 @@
 ## 📚 尺乇卩ㄖ丂丨ㄒㄖ尺ㄚ
 
 <a href="https://github.com/InvisiblePro/Hacktoberfest-2022" >
-  <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Hacktoberfest-2022&theme=jolly"/>
+  <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Hacktoberfest-2022&theme=blue_navy"/>
 </a>
 
 <a href="https://github.com/InvisiblePro/Stock-Market-Share-Price-Predictor/" >
-  <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Stock-Market-Share-Price-Predictor&theme=jolly"/>
+  <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Stock-Market-Share-Price-Predictor&theme=blue_navy"/>
 </a>
 
 <a href="https://github.com/InvisiblePro/AI_Security/" >
-  <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=AI_Face_Recognition&theme=jolly"/>
+  <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=AI_Face_Recognition&theme=blue_navy"/>
 </a>
 <br/>
 
