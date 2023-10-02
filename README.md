@@ -23,6 +23,11 @@
   <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=CV_Projects&theme=blue_navy"/>
 </a>
 
+<a href="https://github.com/InvisiblePro/Py_Mini_Projects" >
+  <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Py_Mini_Projects&theme=blue_navy"/>
+</a>
+
+
 <a href="https://github.com/InvisiblePro/Hacktoberfest-2022" >
   <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Hacktoberfest-2022&theme=blue_navy"/>
 </a>
@@ -43,6 +48,7 @@
 
 
 ## 丂ㄒ卂ㄒ丂:
+
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=blue_navy"/>
 <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=InvisiblePro&theme=blue_navy&stroke=00f"/>
