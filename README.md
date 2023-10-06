@@ -6,7 +6,7 @@
 - 👀 Interested in AI 🤖 projects with Python 🐍.
 - 🌱 Currently on the way of AI and ML with python
 - 🤝🏻 Looking to collaborate on Python and OpenCV projects.
-- 📫 Reach me out-- [@InvisiblePro](mailto:hacker.invisiblepro@proton.me)
+- 📫 Reach me out on Professional Email-- [InvisiblePro](mailto:hacker.invisiblepro@proton.me)
    
 </h3>
 <br/>
