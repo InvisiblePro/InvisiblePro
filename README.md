@@ -44,7 +44,8 @@
 
 ## *匚ㄖ几ㄒ尺丨乃ㄩㄒ丨ㄖ几*
 
-[<img src="https://github-readme-activity-graph.vercel.app/graph?username=InvisiblePro&color=00f&title_color=00f&line=00f&point=000&area_color=002387&area=true&bg_color=87ceeb"/>](https://ww.github.com)
+[<img src="https://github-readme-activity-graph.vercel.app/graph?username=InvisiblePro&color=00f&title_color=00f&line=00f&point=000&area_color=002387&area=true&bg_color=87ceeb"/>](https://ww.github.com/InvisiblePro)
+[<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InvisiblePro&theme=transparent" width="100%"/>](https://github.com/InvisiblePro)
 
 
 ## 丂ㄒ卂ㄒ丂:
