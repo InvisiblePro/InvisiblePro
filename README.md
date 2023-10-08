@@ -7,12 +7,11 @@
 - 🌱 Currently on the way of AI and ML with python
 - 🤝🏻 Looking to collaborate on Python and OpenCV projects.
 - 📫 Reach me out on Professional Email-- [InvisiblePro](mailto:hacker.invisiblepro@proton.me)
-   
 </h3>
 <br/>
 
 ## 乃卂ᗪᎶ乇丂
-                                                                                                                                       
+                                                                     
 [![An image of @invisisblepro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/invisisblepro)](https://holopin.io/@invisisblepro)
 
 <br/>
@@ -56,10 +55,12 @@
 <!--
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&hide_progress=true&theme=blue_navy" width="50%" align="left"/> 
 -->
-<br/>
+
 <div width="100%">
-<img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InvisiblePro&theme=transparent" align="right" width="47%"/>
-<img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=InvisiblePro&theme=transparent" align="left" width="47%"/>
+  <br/>
+<br>
+<img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InvisiblePro&theme=transparent" align="right" width="42%"/>
+<img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=InvisiblePro&theme=transparent" align="left" width="42%"/>
 </div>
 <br/>
 <br/>
