@@ -1,13 +1,13 @@
 # 卄乇ㄥㄥㄖ 
 
-<h3>
-  
+<img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" align="right" width="30%"/>
+
 - 👨🏻‍🎓 Student of Grade X. 
 - 👀 Interested in AI 🤖 projects with Python 🐍.
 - 🌱 Currently on the way of AI and ML with python
 - 🤝🏻 Looking to collaborate on Python and OpenCV projects.
-- 📫 Reach me out on Professional Email-- [InvisiblePro](mailto:hacker.invisiblepro@proton.me)
-</h3>
+- 📫 Reach me out on Email [@InvisiblePro](mailto:hacker.invisiblepro@proton.me)
+
 <br/>
 
 ## 乃卂ᗪᎶ乇丂
