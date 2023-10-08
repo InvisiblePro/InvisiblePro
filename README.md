@@ -58,8 +58,8 @@
 -->
 <br/>
 <div width="100%">
-<img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InvisiblePro&theme=transparent" align="right" width="48%"/>
-<img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=InvisiblePro&theme=transparent" align="left" width="48%"/>
+<img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InvisiblePro&theme=transparent" align="right" width="47%"/>
+<img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=InvisiblePro&theme=transparent" align="left" width="47%"/>
 </div>
 <br/>
 <br/>
