@@ -66,7 +66,7 @@
 <img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=InvisiblePro&theme=transparent"/>
 </div><br/><br/><br/><br/>
 
-<div><br/><br/><br/><br/><br/><br/>
+<div>
   
 ## *ㄒㄖㄖㄥ丂 and ㄥ丨几Ꮆㄖ:*
 <br>
