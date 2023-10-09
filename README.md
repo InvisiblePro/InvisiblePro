@@ -50,8 +50,10 @@
 ## 丂ㄒ卂ㄒ丂:
 
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=blue_navy" align="left"/>
-<img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=InvisiblePro&theme=blue_navy&stroke=00f" align="right"/>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=blue_navy"/>
+<br>
+<img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=InvisiblePro&theme=blue_navy&stroke=00f">
+<br>
 <!--
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&hide_progress=true&theme=blue_navy" width="50%" align="left"/> 
 -->
@@ -59,8 +61,9 @@
 <div width="100%">
   <br/>
 <br>
-<img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InvisiblePro&theme=transparent" align="right" width="47%"/>
-<img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=InvisiblePro&theme=transparent" align="left" width="47%"/>
+<img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InvisiblePro&theme=transparent"/>
+  <br>
+<img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=InvisiblePro&theme=transparent"/>
 </div><br/><br/><br/><br/>
 
 <div><br/><br/><br/><br/><br/><br/>
