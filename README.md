@@ -64,9 +64,7 @@
 <img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InvisiblePro&theme=transparent"/>
   <br>
 <img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=InvisiblePro&theme=transparent"/>
-</div><br/><br/><br/><br/>
-
-<div>
+</div>
   
 ## *ㄒㄖㄖㄥ丂 and ㄥ丨几Ꮆㄖ:*
 <br>
@@ -74,7 +72,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" width="40px">](https://www.jetbrains.com/pycharm/) &nbsp;&nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="40px" alt="Intellij">](https://www.jetbrains.com/idea) &nbsp;&nbsp; [<img src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" alt="Eclipse" width="40px">](https://www.eclipse.org/) &nbsp;&nbsp;[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="40px" />](https://www.python.org/) &nbsp;&nbsp;[<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="JAVA" width="40px">](https://www.java.com/en/)&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="40px"/>](https://jupyter.org/) &nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="Kotlin" width="40px">](https://kotlinlang.org/)
 [<img alt="Github" src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-logo-png-transparent.png" width="45px" />](https://github.com/)
 
-<br/><br/></div>
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=InvisiblePro&label=PROFILE+VIEWS&style=for-the-badge)
 [<img src="https://img.shields.io/badge/Contact--me-@InvisiblePro-blue?style=for-the-badge&logo=gmail&link=mailto:Proton.me" width=250>](mailto:hacker.invisiblepro@proton.me)
