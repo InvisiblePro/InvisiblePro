@@ -27,6 +27,7 @@
 </a>
 
 
+
 <a href="https://github.com/InvisiblePro/Hacktoberfest-2022" >
   <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Hacktoberfest-2022&theme=blue_navy"/>
 </a>
@@ -72,7 +73,7 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=InvisiblePro&label=PROFILE+VIEWS&style=for-the-badge)
-[<img src="https://img.shields.io/badge/Contact--me-@InvisiblePro-blue?style=for-the-badge&logo=gmail&link=mailto:Proton.me" width=250>](mailto:hacker.invisiblepro@proton.me)
-[<img src="https://img.shields.io/github/followers/InvisiblePro?label=Followers&style=for-the-badge" alt="Followers"/>](https://github.com/InvisiblePro?tab=followers)
-[<img src="https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github&style=for-the-badge" alt="InvisiblePro">](https://github.com/InvisiblePro)
+[<img src="https://komarev.com/ghpvc/?username=InvisiblePro&label=Profile--views">]()
+[<img src="https://img.shields.io/badge/Contact--me-@InvisiblePro-blue?logo=gmail&link=mailto:Proton.me">](mailto:hacker.invisiblepro@proton.me)
+[<img src="https://img.shields.io/github/followers/InvisiblePro?label=Followers" alt="Followers"/>](https://github.com/InvisiblePro?tab=followers)
+[<img src="https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=githu" alt="InvisiblePro">](https://github.com/InvisiblePro)
