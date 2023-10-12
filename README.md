@@ -76,4 +76,4 @@
 [<img src="https://komarev.com/ghpvc/?username=InvisiblePro&label=Profile--views">]()
 [<img src="https://img.shields.io/badge/Contact--me-@InvisiblePro-blue?logo=gmail&link=mailto:Proton.me">](mailto:hacker.invisiblepro@proton.me)
 [<img src="https://img.shields.io/github/followers/InvisiblePro?label=Followers" alt="Followers"/>](https://github.com/InvisiblePro?tab=followers)
-[<img src="https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=githu" alt="InvisiblePro">](https://github.com/InvisiblePro)
+[<img src="https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github" alt="InvisiblePro">](https://github.com/InvisiblePro)
