@@ -7,6 +7,7 @@
 - 🌱 Currently on the way of AI and ML with python
 - 🤝🏻 Looking to collaborate on Python and OpenCV projects.
 - 📫 Reach me out on Email [@InvisiblePro](mailto:hacker.invisiblepro@proton.me)
+- 😎 Github Classroom Student 
 
 <br/>
 
