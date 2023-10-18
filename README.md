@@ -10,6 +10,10 @@
 - 😎 Github Classroom Student 
 
 <br/>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white)  ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Browser](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)	![Editor](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
 
 ## 乃卂ᗪᎶ乇丂
                                                           
@@ -65,13 +69,13 @@
 <img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=InvisiblePro&theme=transparent"/>
 </div>
 -->
-
+<!--
 ## *ㄒㄖㄖㄥ丂 and ㄥ丨几Ꮆㄖ:*
 <br>
 
  [<img src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" alt="Eclipse" width="40px">](https://www.eclipse.org/) &nbsp;&nbsp;[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="40px" />](https://www.python.org/) &nbsp;&nbsp;[<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="JAVA" width="40px">](https://www.java.com/en/)&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="40px"/>](https://jupyter.org/) &nbsp;&nbsp;
 [<img alt="Github" src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-logo-png-transparent.png" width="45px" />](https://github.com/)
-
+-->
 <br/>
 
 [<img src="https://komarev.com/ghpvc/?username=InvisiblePro&label=Profile--views">]()
