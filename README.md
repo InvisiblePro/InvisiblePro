@@ -24,7 +24,8 @@
 ## 📚 尺乇卩ㄖ丂丨ㄒㄖ尺ㄚ
 
 <a href="https://github.com/InvisiblePro/CV_Projects">
-  <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=CV_Projects&theme=blue_navy"/>
+  <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=CV_Projects&theme=blue_navy"
+/>
 </a>
 
 <a href="https://github.com/InvisiblePro/Py_Mini_Projects" >
