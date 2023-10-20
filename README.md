@@ -65,6 +65,8 @@
 <br>
 <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=InvisiblePro&theme=blue_navy&stroke=00f"/>
 <img alt"github stats" src="https://github-profile-trophy.vercel.app/?username=InvisiblePro"/>
+
+[![InvisiblePro's GitHub | Stats](https://stats.quine.sh/InvisiblePro/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=InvisiblePro)
 <!--
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&hide_progress=true&theme=blue_navy" width="50%" align="left"/> 
 <div width="100%">
