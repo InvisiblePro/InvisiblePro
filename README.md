@@ -46,7 +46,7 @@
   <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Stock-Market-Share-Price-Predictor&theme=blue_navy"/>
 </a>
 
-<a href="https://github.com/InvisiblePro/AI_Security/" >
+<a href="https://github.com/InvisiblePro/AI_Face_Recognition" >
   <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=AI_Face_Recognition&theme=blue_navy"/>
 </a>
 <br/>
