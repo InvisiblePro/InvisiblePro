@@ -6,7 +6,7 @@
 - 👀 Interested in AI 🤖 projects with Python 🐍.
 - 🌱 Currently on the way of AI and ML with python
 - 🤝🏻 Looking to collaborate on Python and OpenCV projects.
-- 📫 Reach me out on Email [@InvisiblePro](mailto:hacker.invisiblepro@proton.me)
+- 📫 Reach me out on Email [@InvisiblePro](mailto:cyber.dhyey@gmail.com)
 - 😎 Founder [@SneakyShadows](https://github.com/SneakyShadows)
 - 🤩 GitHub Classroom Student
 
@@ -43,7 +43,8 @@
 </a>
 
 <a href="https://github.com/InvisiblePro/Stock-Market-Share-Price-Predictor/" >
-  <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Stock-Market-Share-Price-Predictor&theme=blue_navy"/>
+  <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisiblePro&repo=Stock-Market-Share-Price-Predictor&theme=blue_navy"
+/>
 </a>
 
 <a href="https://github.com/InvisiblePro/AI_Face_Recognition" >
