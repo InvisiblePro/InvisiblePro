@@ -6,7 +6,7 @@
 - 👀 Interested in AI 🤖 projects with Python 🐍.
 - 🌱 Currently on the way of AI and ML with python
 - 🤝🏻 Looking to collaborate on Python and OpenCV projects.
-- 📫 Reach me out on Email [@InvisiblePro](mailto:cyber.dhyey@gmail.com)
+- 📫 Reach me out on Email cyber.dhyey@gmail.com
 - 😎 Founder [@SneakyShadows](https://github.com/SneakyShadows)
 - 🤩 GitHub Classroom Student
 
