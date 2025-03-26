@@ -90,3 +90,8 @@
 [<img src="https://img.shields.io/badge/Contact--me-blue?logo=gmail&link=mailto:gmail.com">](mailto:cyber.dhyey@gmail.com)
 [<img src="https://img.shields.io/github/followers/InvisiblePro?label=Followers" alt="Followers"/>](https://github.com/InvisiblePro?tab=followers)
 [<img src="https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github" alt="InvisiblePro">](https://github.com/InvisiblePro)
+
+
+
+Heyy! I'm a student currently... Mastering my skills in CV and AI projects with Python..
+Explorin' to contribute in Python projects and meet new Technophiles ✨
