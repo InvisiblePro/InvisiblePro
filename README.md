@@ -2,7 +2,7 @@
 
 <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" align="right" width="30%"/>
 
-- 👨🏻‍🎓 Student of Grade XI Science. 
+- 👨🏻‍🎓 Student of Grade XII Science. 
 - 👀 Interested in AI 🤖 projects with Python 🐍.
 - 🌱 Currently on the way of AI and ML with python
 - 🤝🏻 Looking to collaborate on Python and OpenCV projects.
