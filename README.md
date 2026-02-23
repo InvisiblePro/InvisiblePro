@@ -25,6 +25,7 @@
 
 <br/>
 
+<!--
 ## 📚 尺乇卩ㄖ丂丨ㄒㄖ尺ㄚ
 
 <a href="https://github.com/InvisiblePro/CV_Projects">
@@ -57,18 +58,17 @@
 
 [<img src="https://github-readme-activity-graph.vercel.app/graph?username=InvisiblePro&color=00f&title_color=00f&line=00f&point=000&area_color=002387&area=true&bg_color=87ceeb"/>](https://ww.github.com/InvisiblePro)
 [<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InvisiblePro&theme=transparent" width="100%"/>](https://github.com/InvisiblePro)
-
+-->
 
 ## 丂ㄒ卂ㄒ丂:
 
-
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=blue_navy"/>
-<br>
 <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=InvisiblePro&theme=blue_navy&stroke=00f"/>
-<img alt"github stats" src="https://github-profile-trophy.vercel.app/?username=InvisiblePro"/>
+
+<!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InvisiblePro&show_icons=true&theme=blue_navy"/>
 
 [![InvisiblePro's GitHub | Stats](https://stats.quine.sh/InvisiblePro/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=InvisiblePro)
-<!--
+<img alt"github stats" src="https://github-profile-trophy.vercel.app/?username=InvisiblePro"/>
+<br>
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisiblePro&hide_progress=true&theme=blue_navy" width="50%" align="left"/> 
 <div width="100%">
 <br>
@@ -77,13 +77,14 @@
 <img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=InvisiblePro&theme=transparent"/>
 </div>
 -->
-<!--
-## *ㄒㄖㄖㄥ丂 and ㄥ丨几Ꮆㄖ:*
 <br>
+
+## *ㄒㄖㄖㄥ丂 and ㄥ丨几Ꮆㄖ:*
+
 
  [<img src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" alt="Eclipse" width="40px">](https://www.eclipse.org/) &nbsp;&nbsp;[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="40px" />](https://www.python.org/) &nbsp;&nbsp;[<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="JAVA" width="40px">](https://www.java.com/en/)&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="40px"/>](https://jupyter.org/) &nbsp;&nbsp;
 [<img alt="Github" src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-logo-png-transparent.png" width="45px" />](https://github.com/)
--->
+
 <br/>
 
 [<img src="https://komarev.com/ghpvc/?username=InvisiblePro&label=Profile--views">]()
@@ -93,5 +94,8 @@
 
 
 
-Heyy! I'm a student currently... Mastering my skills in CV and AI projects with Python..
+
+
+
+Heyy! I'm a student currently... Mastering my skills in OpenCV and AI projects with Python..
 Explorin' to contribute in Python projects and meet new Technophiles ✨
